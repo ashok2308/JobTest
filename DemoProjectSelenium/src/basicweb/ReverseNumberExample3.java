@@ -7,7 +7,7 @@ public static void reverseNumber(int number)
 {  
 if (number < 10)   
 {  
-//prints the same number if the number is less than 10  
+//prints the same number if the number is less than 10  (tetst)
 System.out.println(number);  
 return;  
 }  
